@@ -1,6 +1,6 @@
 module github.com/tencentcloud/CubeSandbox/network-agent
 
-go 1.24.0
+go 1.24.8
 
 require (
 	github.com/cilium/ebpf v0.17.3
